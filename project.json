@@ -1,0 +1,9 @@
+{
+  "name": "aws-lambda-hello-world",
+  "description": "hello wolrd aws lambda",
+  "profile": "personal-alexa-waleed",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::467495746912:role/aws-lambda-hello-world_lambda_function",
+  "environment": {}
+}
